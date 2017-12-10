@@ -125,7 +125,7 @@
   },
   "optionalDependencies": {
     "markdown-pdf": "^7.0.0",
-    "codemirror": "git+https://github.com/hackmdio/CodeMirror.git",
+    "codemirror": "git+https://github.com/a-andreyev/CodeMirror.git",
     "js-url": "^2.3.0"
   },
   "engines": {
@@ -182,6 +182,7 @@
   "standard": {
     "globals": [
       "$",
+      "CodeMirror",
       "Cookies",
       "moment",
       "editor",
