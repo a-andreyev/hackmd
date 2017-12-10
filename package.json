@@ -126,7 +126,7 @@
     "xss": "^0.3.3"
   },
   "optionalDependencies": {
-    "markdown-pdf": "^7.0.0",
+    "markdown-pdf": "^7.0.0"
   },
   "engines": {
     "node": ">=6.x"
